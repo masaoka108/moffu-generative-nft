@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB7F50757a6D3728016D77BF585e7Fb3283fD59B8",
+  "SCAN_LINK": "https://polygonscan.com/token/0xB7F50757a6D3728016D77BF585e7Fb3283fD59B8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Popin' moffu collection",
+  "SYMBOL": "Moffu",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/poppinmoffucollection",
+  "SHOW_BACKGROUND": false
+}

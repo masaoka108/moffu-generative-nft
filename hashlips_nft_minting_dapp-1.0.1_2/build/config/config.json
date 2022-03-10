@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5DE3f152136dfB5A0a999Ca335945C8c5b356B61",
+  "SCAN_LINK": "https://polygonscan.com/token/0x5DE3f152136dfB5A0a999Ca335945C8c5b356B61",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Nerdy Coder Clones",
+  "SYMBOL": "NCC",
+  "MAX_SUPPLY": 30,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/moffu30-2",
+  "SHOW_BACKGROUND": false
+}
